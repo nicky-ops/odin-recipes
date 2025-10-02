@@ -1,0 +1,2 @@
+# Recipes
+This project is a simple html project that demonstrates skills learned in the foundations chapter of the odin project. It is a simple recipe website that contains pages of the various food recipes.
